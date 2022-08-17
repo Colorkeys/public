@@ -12,8 +12,13 @@ On this page, we will maintain a list of new features that have been added to th
 
 The following is a partial list of projects we are working on:
 
-<details>
-  <summary>Student Site Redesign</summary>
+- **Student Site Redesign** - *Within a couple of months*
+   
+  In order to make the student interface more engaging and the module interaction simple yet rich, we are currently working with a design firm on a total overhaul of the student facing portion of the site. 
   
-  - Expanded content
-</details>
+- More to come...
+
+
+## Changelog
+
+List of already implemented features to come...

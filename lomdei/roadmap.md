@@ -6,3 +6,14 @@ We are committed to the continued improvement of the Lomdei Platform and have be
 For a project of this size to be successful, it continues to be necessary for us to prioritize some features over others. Where possible, we are committed to listening to your feedback for new ideas and to prioritize our planned work.
 
 On this page, we will maintain a list of new features that have been added to the platform and announcements about our product roadmap. We welcome your feedback in the form of a form submission on our [feedback page](/portal/feedback).
+
+
+## Roadmap
+
+The following is a partial list of projects we are working on:
+
+<details>
+  <summary>Student Site Redesign</summary>
+  
+  - Expanded content
+</details>
